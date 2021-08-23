@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @skullice
-- 👀 I’m interested in learning JavaScript and Full MEAN stack
-- 🌱 I’m currently learning FULL MEAN STACK
+- 👋 Hi, I’m Alex Kang
+- 👀 I’m interested in learning JavaScript and Full MERN stack and Web Development
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me alexkang534@gmail.com
 
